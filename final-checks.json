@@ -1,0 +1,41 @@
+{
+  "architecture": "CPU_TYPE.ARM64",
+  "min_ios": [
+    15,
+    0,
+    0
+  ],
+  "sdk": [
+    16,
+    5,
+    0
+  ],
+  "adhoc_signature_present": true,
+  "signature_size": 8832,
+  "sha256": "632c84cd5e83f80baedc69335381fc9ebf2bfd3deeeada1ab5eeb525c02caafc",
+  "geodesic_tests": "PASS 720 geodesic cases plus dateline boundary",
+  "offline_verifier_consistency": "PASS; correct code matches, altered code fails; plaintext absent from final binary",
+  "original_remote_activation_branch_compile": "PASS (one translation unit, not full remote-mode build)",
+  "local_binary_remote_server_url": "absent",
+  "warning_count": 140,
+  "warnings_by_file": [
+    {
+      "file": "MapPickerViewController+Bookmarks.log",
+      "warnings": 3
+    },
+    {
+      "file": "MapPickerViewController+Core.log",
+      "warnings": 52
+    },
+    {
+      "file": "MapPickerViewController+Route.log",
+      "warnings": 15
+    },
+    {
+      "file": "MapPickerViewController.log",
+      "warnings": 70
+    }
+  ],
+  "device_runtime_tested": false,
+  "theos_workflow_executed": false
+}

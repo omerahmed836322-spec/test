@@ -1,0 +1,9 @@
+{
+  "baseline": "delivered movement-fix-v2 ZIP",
+  "changed_source_files": [
+    "OverlayWindow.m"
+  ],
+  "missing_selectors": {},
+  "gesture_static_checks": "PASS: no dismissal call, guards before and after main-queue dispatch, presented map guard covers subpages, gesture latch retained until fingers lift",
+  "runtime_tested": false
+}

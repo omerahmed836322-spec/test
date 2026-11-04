@@ -1,0 +1,27 @@
+{
+  "excluded_original_generated_paths": [
+    {
+      "path": "project.zip",
+      "reason": "stale generated artifact, nested original package, system metadata, or agent scratchpad; original upload remains unchanged"
+    },
+    {
+      "path": ".theos",
+      "reason": "stale generated artifact, nested original package, system metadata, or agent scratchpad; original upload remains unchanged"
+    },
+    {
+      "path": "local-build",
+      "reason": "stale generated artifact, nested original package, system metadata, or agent scratchpad; original upload remains unchanged"
+    },
+    {
+      "path": "task.md",
+      "reason": "stale generated artifact, nested original package, system metadata, or agent scratchpad; original upload remains unchanged"
+    },
+    {
+      "path": ".DS_Store",
+      "reason": "stale generated artifact, nested original package, system metadata, or agent scratchpad; original upload remains unchanged"
+    }
+  ],
+  "historical_docs": "Retained in historical-documentation; prior claims do not apply to this build",
+  "original_upload_unchanged": true,
+  "runtime_verified": false
+}
